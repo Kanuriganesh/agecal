@@ -1,6 +1,6 @@
 # Age Calculator Web App
 
-This is a simple responsive web application that calculates the age (in years, months, and days) based on the selected Date of Birth.
+This is a simple responsive web application that calculates the age (in years, months, and days) based on the selected Date of Birth
 
 ## 🧮 Features
 
